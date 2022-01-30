@@ -200,3 +200,7 @@ h4{
     color: var(--text-sub);
     font-size: 22px;
 }
+.description a{
+    color: var(--text-main);
+    text-decoration: none;
+}
